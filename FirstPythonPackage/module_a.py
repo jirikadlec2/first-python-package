@@ -1,5 +1,5 @@
 from __future__ import absolute_import
-import module_b
+from FirstPythonPackage import module_b
 
 def do_stuff():
     final_result = module_b.run_helper("default_options")
