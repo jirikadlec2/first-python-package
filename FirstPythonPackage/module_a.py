@@ -1,3 +1,4 @@
+from __future__ import absolute_imports
 import module_b
 
 def do_stuff():
